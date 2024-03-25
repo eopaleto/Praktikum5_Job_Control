@@ -1,4 +1,5 @@
-# Praktikum5_Job_Control
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/073abb7f-c1d6-41f3-96e0-6d0a5d5bf99c)
+
 
 **1. Eksekusi seluruh profile yang ada :**     
       a. Edit file  profile  /etc/profile  dan  tampilkan pesan  sebagai berikut  :    `echo  “Profile dari /etc/profile”`
@@ -117,3 +118,24 @@ a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh,  setiap 10 detik
 ![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/aa4d9b14-e916-4121-a569-d70afceb2197)
 
 ![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/22f14388-a2c5-4831-b048-a3c43aa26093)
+
+**6. History**
+a. Ganti nilai HISTSIZE dari 1000 menjadi 20   
+
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/79287b3a-4a4a-4881-b791-a755e19a136e)
+
+b. Gunakan  fasilitas  history  dengan  mengedit  instruksi  baris  ke  5  dari  instruksi  yang terakhir dilakukan
+
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/a44e866d-a215-43e3-b3cb-a4ae1f399990)
+
+c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer  
+
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/5a9cca6a-ea35-4069-aa13-525a59cfb8a7)
+
+d. Ulangi instruksi pada history bufer nomor 150
+
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/34b71f0a-1afc-4635-af75-bcfa774f2da2)
+
+e. Ulangi instruksi dengan prefix “ls”   
+
+![image](https://github.com/eopaleto/Praktikum5_Job_Control/assets/126212773/072bd121-f375-4be5-afd2-6eddfdb583cd)
